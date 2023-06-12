@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">MQTTProject</string>
-    <string name="on">ON</string>
-    <string name="off">OFF</string>
-    <string name="status_">STATUS:</string>
-</resources>
